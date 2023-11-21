@@ -88,7 +88,7 @@
     "core-js": "^2.4.1",
     "coveralls": "^2.11.16",
     "fastify-static": "^0.8.0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-clang-format": "^1.0.23",
     "gulp-clean": "^0.4.0",
     "gulp-sequence": "^0.4.6",
